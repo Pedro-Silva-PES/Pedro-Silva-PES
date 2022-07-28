@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Pedro-Silva-PES
 - 👀 I’m interested in ...learn new things.
 - 🌱 I’m currently learning ...information security.
-- 💞️ I’m looking to collaborate on ... nothing for now.
+- 💞️ I’m looking to collaborate on ... make your information more secure.
 - 📫 How to reach me ... 
 
 <!---
